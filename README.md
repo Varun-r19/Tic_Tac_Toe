@@ -19,9 +19,9 @@ A simple command-line implementation of the classic Tic-Tac-Toe game in Python. 
 4. Continue until there's a winner or a draw.
 
 ## Game Board Layout:
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
+| 1 | 2 | 3 | \
+| 4 | 5 | 6 | \
+| 7 | 8 | 9 | \
 
 Enter the corresponding number to place your 'X' in that position.
 
