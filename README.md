@@ -21,7 +21,7 @@ A simple command-line implementation of the classic Tic-Tac-Toe game in Python. 
 ## Game Board Layout:
 | 1 | 2 | 3 | \
 | 4 | 5 | 6 | \
-| 7 | 8 | 9 | \
+| 7 | 8 | 9 | 
 
 Enter the corresponding number to place your 'X' in that position.
 
